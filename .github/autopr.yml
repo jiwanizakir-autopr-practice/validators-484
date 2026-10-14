@@ -1,0 +1,4 @@
+autopr:
+  version: 1
+  welcome: true
+  label: autopr-ok
